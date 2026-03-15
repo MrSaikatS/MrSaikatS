@@ -16,7 +16,7 @@ Central Institute Of Technology (CIT): https://citindia.in/
 - Production deployment: networking, reverse proxy (Nginx), release workflows
 - Capstone projects: build → deploy → maintain, with security & reliability practices
 
-## What I build (CTO)
+## What I build (ADS)
 
 Avira Digital Studios India: https://aviradigitalstudios.com/in
 
