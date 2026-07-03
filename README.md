@@ -16,14 +16,12 @@
 
 ---
 
+<div align="center">
 I teach learners to build real, deployable products - frontend, backend, databases, CI/CD, and production deployment - then apply the same standards in real delivery as a CTO and engineer.
+</div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSaikatS&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-stats-extended.vercel.app/api?username=MrSaikatS&show_icons=true&theme=tokyonight&hide_border=true" alt="Saikat's GitHub stats" height="165" />
-
 </div>
 
 ## 🎓 What I teach - Central Institute of Technology (CIT)
@@ -36,11 +34,15 @@ I teach learners to build real, deployable products - frontend, backend, databas
 
 ## 🏗️ What I build - Avira Digital Studios India
 
-[aviradigitalstudios.com/in](https://aviradigitalstudios.com/in)
+[aviradigitalstudios.com](https://aviradigitalstudios.com/)
 
 - Own architecture and end-to-end delivery for production systems
 - Secure SDLC - secrets management, least privilege, hardening, reviews
 - CI/CD + release automation, performance, reliability, and maintainability
+
+## 🤖 AI in my workflow
+
+I use Agentic AI to accelerate engineering work - coding, reviews, testing, docs, automation - and it's boosted delivery productivity by roughly 3× in practice.
 
 ## 📌 Pinned repos
 
@@ -59,13 +61,3 @@ I teach learners to build real, deployable products - frontend, backend, databas
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,mysql,sqlite,prisma,git,docker,vscode" alt="Tech stack icons" />
 
 </div>
-
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, REST APIs
-- **Data:** PostgreSQL, MySQL, SQLite
-- **Forms & validation:** React Hook Form, Zod
-- **Tooling:** Prisma, Git, Docker
-
-## 🤖 AI in my workflow
-
-I use generative AI and AI agents to accelerate engineering work - coding, reviews, testing, docs, automation - and it's boosted delivery productivity by roughly 3× in practice.
