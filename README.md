@@ -2,8 +2,6 @@
 
 <img src="https://github.com/MrSaikatS/MrSaikatS/raw/main/hello.gif" alt="hello" />
 
-# Saikat Sardar
-
 ### _Programmer, Human Being._
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Teaching+full-stack+%2B+cloud+DevOps+since+2017;Shipping+production-grade%2C+security-first+systems;CTO+%40+Avira+Digital+Studios;Lead+Instructor+%40+Central+Institute+of+Technology" alt="Typing SVG" />
