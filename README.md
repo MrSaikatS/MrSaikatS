@@ -18,10 +18,6 @@
 I teach learners to build real, deployable products - frontend, backend, databases, CI/CD, and production deployment - then apply the same standards in real delivery as a CTO and engineer.
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSaikatS&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
 ## 🎓 What I teach - Central Institute of Technology (CIT)
 
 [citindia.in](https://citindia.in/)
