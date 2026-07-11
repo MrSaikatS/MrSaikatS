@@ -47,11 +47,3 @@ I use Agentic AI to accelerate engineering work - coding, reviews, testing, docs
 | [vscode-workspace-template](https://github.com/MrSaikatS/vscode-workspace-template) ⭐ 12         | Spin up a fresh, opinionated VS Code workspace in minutes         | —          |
 | [fastify-prisma-starter](https://github.com/MrSaikatS/fastify-prisma-starter)                     | REST API starter - Fastify + Prisma + SQLite (LibSQL)             | TypeScript |
 | [three-windows](https://github.com/MrSaikatS/three-windows) ⭐ 1                                  | Real-time transport comparison - HTTP polling vs WebSocket vs SSE | TypeScript |
-
-## 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,mysql,sqlite,prisma,git,docker,vscode" alt="Tech stack icons" />
-
-</div>
