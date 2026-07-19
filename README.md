@@ -37,13 +37,3 @@ I teach learners to build real, deployable products - frontend, backend, databas
 ## 🤖 AI in my workflow
 
 I use Agentic AI to accelerate engineering work - coding, reviews, testing, docs, automation - and it's boosted delivery productivity by roughly 3× in practice.
-
-## 📌 Pinned repos
-
-| Repo                                                                                              | What it is                                                        | Stack      |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
-| [nextjs-starter-frontend](https://github.com/MrSaikatS/nextjs-starter-frontend) ⭐ 18             | Production-ready Next.js frontend starter - Tailwind + App Router | CSS / TS   |
-| [nextjs-starter-fullstack-node](https://github.com/MrSaikatS/nextjs-starter-fullstack-node) ⭐ 12 | Full-stack Next.js starter with modern tooling & best practices   | TypeScript |
-| [vscode-workspace-template](https://github.com/MrSaikatS/vscode-workspace-template) ⭐ 12         | Spin up a fresh, opinionated VS Code workspace in minutes         | —          |
-| [fastify-prisma-starter](https://github.com/MrSaikatS/fastify-prisma-starter)                     | REST API starter - Fastify + Prisma + SQLite (LibSQL)             | TypeScript |
-| [three-windows](https://github.com/MrSaikatS/three-windows) ⭐ 1                                  | Real-time transport comparison - HTTP polling vs WebSocket vs SSE | TypeScript |
